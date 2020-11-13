@@ -23,6 +23,7 @@ FEATURES PLACEHOLDER
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
   Thanks for opening your first issue here! Be sure to follow the issue template!
+This is my first project in GitHub
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
